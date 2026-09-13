@@ -2,7 +2,7 @@
 
 - **الاسم:** عبدالله عبدالقادر (Abdallah Abdelqader)
 - **المسمى الوظيفي:** مهندس تصميم رقمي (Digital IC Design Engineer) | مهندس أتمتة (Automation Engineer) | مبرمج بايثون (Python Programmer)
-- **الإيميل:** abqader2003@gmail.com
+- **الإيميل:** abdallahabdelqader.eng@gmail.com
 - **رقم الهاتف:** +201063070388
 - **الموقع:** سوهاج , مصر
 - **تاريخ بداية الخبرة:** 2024
