@@ -30,6 +30,8 @@ CV-Knowledge-Base/
 │   ├── Programming/
 │   ├── AI-MachineLearning/
 │   ├── Data-Science/
+│   ├── Soft-Skills/
+│   ├── Telecommunications/
 │   ├── Distribution-Systems/
 │   ├── Light-Current/
 │   ├── Digital-IC-Design/
