@@ -37,5 +37,11 @@
 - **رابط الشهادة/الإثبات:** 
   - [شهادة تخصص IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/5DPT5N8SRAAS)
 
+- **الكورسات الموثقة تحت هذه الشهادة:**
+  - [Python for Data Science, AI & Development](./python-for-data-science-ai-development-coursera.md) — أُنجز في 16 يوليو 2020، حوالي 24 ساعة.
+  - [Data Analysis with Python](./data-analysis-with-python-coursera.md) — أُنجز في 22 يوليو 2020، حوالي 15 ساعة.
+  - [Data Visualization with Python](./data-visualization-with-python-coursera.md) — أُنجز في 28 يوليو 2020، حوالي 18 ساعة.
+  - [Applied Data Science Capstone](./applied-data-science-capstone-coursera.md) — أُنجز في 30 يوليو 2020، حوالي 14 ساعة.
+
 - **ملاحظات حرة:**
   - التخصص كان نقطة البداية القوية لي في دمج التحليل الإحصائي مع مهارات البرمجة، وهو ما أثرى تفكيري التقني عموماً.
