@@ -1,51 +1,41 @@
 # Full Digital IC Design Diploma
 
-- **الاسم الرسمي للكورس/الشهادة:** Full Digital IC Design Diploma
-- **الجهة المنظمة / المنصة:** مركز تدريب متخصص / إشراف هندسي
-- **المدرب/المدربين:** م. علي التمساح (Eng. Ali El-Temsah)
-- **المساعدين / الـ TAs:** لا يوجد بيانات
-- **تاريخ البداية والنهاية:** غير محدد
-- **عدد الساعات / المدة الفعلية:** 120 ساعة (120 Hrs)
-- **التقدير / النتيجة:** ممتاز (Excellent)
+- **الاسم الرسمي للكورس/الشهادة:** Digital IC Design Diploma
+- **الجهة المنظمة / المنصة:** تحت إشراف Eng. Ali El-Temsah، وهو جهة إصدار الشهادة
+- **المدرب/المدربين:** Eng. Ali El-Temsah
+- **المساعدين / الـ TAs:** غير محدد
+- **تاريخ البداية والنهاية:** برنامج مدته ثلاثة أشهر؛ تاريخا البداية والنهاية غير محددين
+- **عدد الساعات / المدة الفعلية:** 120 ساعة
+- **التقدير / النتيجة:** 97% في التقييم العام، و100% في المشروع النهائي — Excellent
 - **المحتوى الأساسي:**
-  - برنامج مكثف يغطي تدفق تصميم ASIC الكامل (End-to-End ASIC Flow).
-  - كتابة أكواد (Verilog RTL) وتصميم الهياكل الرقمية.
-  - بناء بيئات اختبار متقدمة (Advanced Testbenches).
-  - عملية الاصطناع المنطقي (RTL Synthesis).
-  - تحليل التوقيت الثابت (Static Timing Analysis - STA) وإصلاح الانتهاكات.
-  - تقنيات التصميم منخفض الطاقة (Low Power Design).
-  - عبور نطاقات الترددات المختلفة (Clock Domain Crossing - CDC).
-  - كتابة سكريبتات وأتمتة المهام (TCL Scripting).
-  - التصميم من أجل الاختبار (Design For Testing - DFT).
-  - التنفيذ المادي (Physical Implementation) وصولاً للتحقق ما بعد التخطيط ومحاكاة مستوى البوابة (Gate Level Simulation).
-
-- **المشروع/المشاريع اللي عملتها فيه:**
-  - **RTL to GDS Implementation of Low Power Configurable Multi Clock Digital System:** 
-    تصميم نظام رقمي متعدد الترددات بالكامل من مرحلة RTL حتى استخراج GDS. يقوم النظام بمعالجة أوامر UART باستخدام وحدة الحساب والمنطق (ALU) والـ Register File، وينقل النتائج بسلاسة عبر ذاكرة FIFO غير متزامنة لضمان نقل البيانات بأمان بين الترددات المختلفة.
-
-- **أصعب حاجة واجهتها فيه وإزاي حليتها:**
-  - معالجة تعقيدات نقل البيانات بين مناطق الساعات المختلفة (Clock Domains). تم حلها بالتطبيق الدقيق لمفاهيم CDC واستخدام Async FIFOs والتحقق المستمر لضمان عدم فقدان البيانات.
-  
-- **أسهل/أمتع جزء:**
-  - رؤية التصميم ينتقل بنجاح من كود Verilog مجرد إلى مخطط نهائي (GDS) قابل للتصنيع، ومتابعة التقارير الخالية من أخطاء الـ Timing Violations.
-
-- **السكيلز اللي طبقتها فعليًا:** 
-  - Verilog
-  - TCL Scripting
-  - Static Timing Analysis (STA)
-  - Clock Domain Crossing (CDC)
-  - تقنيات التصميم منخفض الطاقة
-  - Design For Testing (DFT)
-  
-- **حاجات جديدة اتعلمتها ملهاش دخل بالمنهج نفسه:**
-  - منهجية حل المشاكل الهندسية المعقدة (Problem Solving) وتفكيك النظام إلى وحدات صغيرة قابلة للتطوير والاختبار.
-  - الصبر والانتباه لأدق التفاصيل (كما تصف مقولتي: التفاصيل الصغيرة تغير كل شيء).
-
-- **علاقات/شبكة تواصل استفدت منها:**
-  - التعلم المباشر والتوجيه من م. علي التمساح الذي قدم رؤى من سوق العمل الحقيقي.
-
-- **رابط الشهادة/الإثبات:** 
-  - [شهادة التخرج على لينكد إن](https://www.linkedin.com/posts/abdallah-abdelqader-engineer_fullabrdigitalabricabrdesignabrdiploma-asic-activity-7383592227266105346-E4Zs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETEAp4BIYpwW8paTB2qhcpcJsndkLTaVh4)
-
-- **ملاحظات حرة:**
-  - يمثل هذا الدبلوم نقطة تحول أساسية في مسيرتي من مجرد طالب إلى مصمم عتاديات قادر على تسليم تصميم كامل وجاهز للتصنيع (GDS).
+  - Efficient RTL Coding باستخدام Verilog.
+  - بناء Advanced Self-Checking Verilog Testbench.
+  - TCL Scripting Language.
+  - Static Timing Analysis.
+  - Low Power Design Techniques.
+  - Clock Domain Crossing.
+  - RTL Synthesis باستخدام Design Compiler.
+  - Design For Testing (DFT) Insertion.
+  - Formal Verification بعد Synthesis وبعد DFT وبعد PnR.
+  - ASIC Flow: Floorplanning، Pin Placement، Clock Tree Synthesis، Placement، Routing، Timing Closure، Chip Finishing، وSign-Off.
+  - Post-Layout Verification باستخدام Gate-Level Simulation.
+- **المشروع النهائي:**
+  - **RTL to GDS Implementation of Low Power Configurable Multi Clock Digital System.**
+  - يستقبل النظام أوامر عبر UART Receiver لتنفيذ وظائف مختلفة، مثل القراءة والكتابة في Register File أو تنفيذ معالجة باستخدام ALU، ثم يرسل النتائج إلى UART Transmitter عبر Asynchronous FIFO للتعامل مع اختلاف ترددات الساعة وتجنب فقد البيانات.
+- **مراحل تنفيذ المشروع:**
+  - تصميم وحدات النظام من الصفر: ALU، Register File، Synchronous FIFO، Integer Clock Divider، Clock Gating، Synchronizers، Main Controller، UART TX، وUART RX.
+  - دمج الوحدات والتحقق من الوظائف باستخدام Self-Checking Testbench.
+  - كتابة قيود النظام باستخدام TCL Scripts الخاصة بالتوليف.
+  - توليف التصميم وتحسينه باستخدام Design Compiler.
+  - تحليل مسارات التوقيت وإصلاح Setup وHold Violations.
+  - التحقق من التكافؤ الوظيفي باستخدام Formality.
+  - تنفيذ Physical Implementation عبر مراحل ASIC Flow وإنتاج ملف GDS.
+  - التحقق من الوظائف بعد التخطيط مع مراعاة التأخيرات الفعلية.
+- **أصعب حاجة واجهتها فيه وإزاي حليتها:** التعامل مع نقل البيانات بين Clock Domains المختلفة، وتم ذلك باستخدام مفاهيم CDC وAsynchronous FIFO والتحقق المستمر.
+- **أسهل/أمتع جزء:** رؤية التصميم ينتقل من Verilog RTL إلى ملف GDS، ومتابعة نتائج التوقيت والتحقق بعد التخطيط.
+- **السكيلز اللي طبقتها فعليًا:** Verilog RTL، Self-Checking Testbench، TCL، RTL Synthesis، Design Compiler، STA، Setup/Hold Analysis، CDC، Asynchronous FIFO، Low Power Design، DFT، Formality، ASIC Physical Implementation، PnR، Timing Closure، GDS Generation، وGate-Level/Post-Layout Verification.
+- **حاجات جديدة اتعلمتها ملهاش دخل بالمنهج نفسه:** منهجية حل المشاكل الهندسية المعقدة، وتفكيك النظام إلى وحدات صغيرة قابلة للتطوير والاختبار.
+- **علاقات/شبكة تواصل استفدت منها:** التوجيه المباشر من Eng. Ali El-Temsah.
+- **رابط الشهادة/الإثبات:** [منشور الشهادة على LinkedIn](https://www.linkedin.com/posts/abdallah-abdelqader-engineer_fullabrdigitalabricabrdesignabrdiploma-asic-activity-7383592227266105346-E4Zs)
+- **مصادر تفاصيل المنهج:** [مستودع ASICs Design Diploma](https://github.com/mohamedtareq24/ASICs_Design_Diploma)، [README المنهج](https://raw.githubusercontent.com/mohamedtareq24/ASICs_Design_Diploma/main/README.md)
+- **ملاحظات حرة:** الدبلومة تغطي دورة تصميم ASIC من RTL حتى GDS مع التحقق الوظيفي وبعد التخطيط.
